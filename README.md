@@ -4,7 +4,7 @@ Learn how to setup Webpack 2 to load Twitter Bootstrap CSS/SCSS and JavaScript.
 
 ## Webpack 2 Playlist
 
-[Watch on YouTube](https://www.youtube.com/watch?v=JdGnYNtuEtE&list=PLkEZWD8wbltnRp6nRR8kv97RbpcUdNawY)
+[Watch on YouTube](https://www.youtube.com/watch?v=JdGnYNtuEtE&list=PLkEZWD8wbltnRp6nRR8kv97RbpcUdNawY) - Author: Petr Tichy
 
 ## How to use the files?
 
